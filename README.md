@@ -1,4 +1,3 @@
-
 # Loan Risk Analysis
 
 A machine learning project that analyzes loan application data and compares models for identifying good and bad loan outcomes.
